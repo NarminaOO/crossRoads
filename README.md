@@ -1,4 +1,4 @@
-## Cross Roads 
+## Cross Roads
 
 This is a simple C++ program that simulates traffic on two roads. It demonstrates the usage of threads, mutexes, and vectors in C++.
 
